@@ -10,7 +10,7 @@
  
 ## 👦 About Me     
  
-- 👩‍💻 Web Developer fully dedicated to JavaScript -> ReactJS | Tailwindcss. 
+- 👩‍💻 Frontend Developer fully dedicated to JavaScript -> ReactJS | Tailwindcss. 
 
 - 💻 I love Technology, thinking efficiently, Science and in my free time playing some games or practicing English and reading articles. 
  
